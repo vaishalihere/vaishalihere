@@ -1,9 +1,9 @@
-[README (2).md](https://github.com/user-attachments/files/27565323/README.2.md)
+[README.md](https://github.com/user-attachments/files/27565329/README.md)
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishali%20Tripathi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Web%20Developer%20%7C%20Creative%20Builder%20%7C%20Open%20Source%20Contributor&descAlignY=55&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishali%20Tripathi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Vaishali+Tripathi!+%F0%9F%91%8B;Web+Developer+%7C+Creative+Builder;C%2B%2B+%7C+TypeScript+%7C+JavaScript+Explorer;Building+things+that+matter+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vaishali!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+TypeScript+%7C+JavaScript+Explorer;Building+things+that+matter+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br/>
 
@@ -15,64 +15,59 @@
 
 ---
 
-## About Me
+## 🌿 About Me
 
-- Skilled in **C++**, **TypeScript**, **JavaScript**, and **HTML/CSS**, combining systems-level thinking with modern web development.
-- Experienced in building **full-stack web applications**, **3D interactive portfolios**, and **AgriTech solutions**.
-- Enthusiastic about **Data Structures & Algorithms**, clean code, and purposeful product design.
-- Constantly learning and building — from sorting visualizers to health-tech and agriculture apps.
+```ts
+const vaishali = {
+  name:       "Vaishali Tripathi",
+  handle:     "@vaishalihere",
+  role:       "Developer & Builder",
+  languages:  ["C++", "TypeScript", "JavaScript", "HTML/CSS"],
+  interests:  ["3D Interfaces", "Web Apps", "Data Structures", "AgriTech"],
+  currentlyBuilding: "Creative & impactful projects 🚀",
+  funFact:    "I turn ideas into working products, one commit at a time 💡"
+};
+```
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Languages**  
+<div align="center">
+
+**Languages**
+
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Frameworks & Libraries**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+**Tools & Platforms**
 
-**Tools & Platforms**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</div>
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Featured Projects
 
-**🌿 Crop-Cure**  
-An AgriTech web application to help farmers identify crop diseases and find treatments.  
-Built with a focus on accessibility and real-world agricultural impact.  
-[View Repo →](https://github.com/vaishalihere/Crop-Cure)
+<div align="center">
 
-**🎨 3D Portfolio Website**  
-An immersive, interactive personal portfolio built with **TypeScript** and Three.js-powered 3D elements.  
-Demonstrates modern UI/UX principles combined with creative front-end engineering.  
-[View Repo →](https://github.com/vaishalihere/3D-Portfolio-Website-)
+| Project | Description | Tech |
+|---------|-------------|------|
+| [🌿 Crop-Cure](https://github.com/vaishalihere/Crop-Cure) | AgriTech app for diagnosing and treating crop diseases | HTML, CSS |
+| [🎨 3D Portfolio Website](https://github.com/vaishalihere/3D-Portfolio-Website-) | Interactive 3D personal portfolio with modern UI | TypeScript |
+| [🔢 Sortify](https://github.com/vaishalihere/Sortify) | Sorting algorithm visualizer built in C++ | C++ |
+| [🧠 MayaVI](https://github.com/vaishalihere/MayaVI) | C++ powered visual/interactive project | C++ |
+| [🏥 Medwin](https://github.com/vaishalihere/medwin) | Medical information platform (forked & contributed) | HTML |
+| [📚 DS](https://github.com/vaishalihere/DS) | Data Structures implementations and exercises | JavaScript |
 
-**🔢 Sortify**  
-A C++ sorting algorithm visualizer showcasing the real-time behavior of classic sorting algorithms.  
-[View Repo →](https://github.com/vaishalihere/Sortify)
-
-**🧠 MayaVI**  
-A C++ powered interactive visual project exploring algorithmic thinking through graphics.  
-[View Repo →](https://github.com/vaishalihere/MayaVI)
-
-**🏥 Medwin**  
-Contributed to a medical information web platform built in HTML/CSS.  
-[View Repo →](https://github.com/vaishalihere/medwin)
-
-**📚 DS**  
-A JavaScript-based collection of Data Structures implementations and exercises for learning and reference.  
-[View Repo →](https://github.com/vaishalihere/DS)
+</div>
 
 ---
 
@@ -113,20 +108,14 @@ A JavaScript-based collection of Data Structures implementations and exercises f
 
 ---
 
-## Contact
-
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-tripathi-545783225/)
-[![GitHub](https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishalihere)
+### 💬 Let's Connect!
 
-</div>
+*"Code is like poetry — every line tells a story."*
 
----
-
-<div align="center">
-
-*"Building things that matter — one line of code at a time."*
+[![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaishali-tripathi-545783225/)
+[![GitHub](https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vaishalihere)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 
