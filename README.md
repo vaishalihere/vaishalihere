@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vaishali%20Tripathi&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Developer%20%7C%20Builder%20%7C%20Problem%20Solver&descAlignY=55&descSize=16" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vaishali!+%F0%9F%91%8B;Full-Stack+Developer+%F0%9F%9A%80;C%2B%2B+%7C+TypeScript+%7C+JavaScript+Explorer;Building+things+that+matter+%F0%9F%8C%B1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Vaishali!+%F0%9F%91%8B;AI-ML+Engthusiast+%F0%9F%9A%80;C%2B%2B+%7C+TypeScript+%7C+JavaScript+Explorer;Building+things+that+matter+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
 <br/>
 
